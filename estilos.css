@@ -1,9 +1,11 @@
 #titulo{
-    color: blueviolet;
+    color:darkgoldenrod;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 
 }
+
+
 
 .card:hover{
     transform: scale(1.03);
