@@ -1,0 +1,14 @@
+#titulo{
+    color:darkgoldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+
+
+.card:hover{
+    transform: scale(1.03);
+    transition: transform 0.3s ease;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+}
